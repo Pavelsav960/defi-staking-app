@@ -6,6 +6,9 @@ The **DeFi Staking Application** is a decentralized finance (DeFi) project that 
 
 The app integrates with **MetaMask** to handle transactions securely, providing a user-friendly interface for staking, withdrawing, and viewing balances.
 
+
+![DeFi Staking Application](https://github.com/user-attachments/assets/5376aa3b-cfd9-4ed7-b87d-9ca98fcb6b7b)
+
 ## Features
 
 ### 1. **Staking USDT**
@@ -85,7 +88,7 @@ npm start
 ```
 
 
-![DeFi Staking Application](https://github.com/user-attachments/assets/5376aa3b-cfd9-4ed7-b87d-9ca98fcb6b7b)
+
 
 
 
