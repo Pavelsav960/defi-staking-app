@@ -85,9 +85,7 @@ npm start
 ```
 
 
-
-
-
+![DeFi Staking Application](https://github.com/user-attachments/assets/5376aa3b-cfd9-4ed7-b87d-9ca98fcb6b7b)
 
 
 
